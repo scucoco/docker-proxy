@@ -10,7 +10,7 @@ if [ -z $SERVER_PORT ]; then
 fi
 
 if [ -z $PASSWORD ]; then
-  PASSWORD="123456"
+  PASSWORD="801201"
 fi
 
 cat >/etc/shadowsocks.json<<-EOF
